@@ -1,6 +1,7 @@
 # Uso de Azure Functions
 
 En este caso, este repositorio, fue creado con la intención de mostrar como se hace uso de Azure Functions de manera simple.
+
 ![Microsoft-Azure-Functions-Logo](https://github.com/DagonNR/Azure-Functions/blob/main/images/Microsoft-Azure-Functions-Logo.png)
 
 ---
